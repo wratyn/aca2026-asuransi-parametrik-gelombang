@@ -1,0 +1,10 @@
+zona,tier,label_tier,gt_min,gt_max,kode_kkp,persentil,u_k_awal,b_k,m_k,M_k,catatan
+573-A,1,< 5 GT (termasuk perahu motor tempel),0,5,KM_0005;MT_*,85,2.2909,,7,20,u_k_awal = persentil iklim lokal; final dari maksimasi HE (Tahap 7)
+573-A,2,5 - 30 GT,5,30,KM_0005_0010;KM_0010_0020;KM_0020_0030,90,2.4281,,7,20,u_k_awal = persentil iklim lokal; final dari maksimasi HE (Tahap 7)
+573-A,3,> 30 GT,30,,KM_0030_0050;KM_0050_0100;KM_0100_0200;KM_0200_0300;KM_0300_0500,95,2.616,,7,20,u_k_awal = persentil iklim lokal; final dari maksimasi HE (Tahap 7)
+573-D,1,< 5 GT (termasuk perahu motor tempel),0,5,KM_0005;MT_*,85,1.1974,,7,20,u_k_awal = persentil iklim lokal; final dari maksimasi HE (Tahap 7)
+573-D,2,5 - 30 GT,5,30,KM_0005_0010;KM_0010_0020;KM_0020_0030,90,1.274,,7,20,u_k_awal = persentil iklim lokal; final dari maksimasi HE (Tahap 7)
+573-D,3,> 30 GT,30,,KM_0030_0050;KM_0050_0100;KM_0100_0200;KM_0200_0300;KM_0300_0500,95,1.402,,7,20,u_k_awal = persentil iklim lokal; final dari maksimasi HE (Tahap 7)
+573-F,1,< 5 GT (termasuk perahu motor tempel),0,5,KM_0005;MT_*,85,1.2131,,7,20,u_k_awal = persentil iklim lokal; final dari maksimasi HE (Tahap 7)
+573-F,2,5 - 30 GT,5,30,KM_0005_0010;KM_0010_0020;KM_0020_0030,90,1.3239,,7,20,u_k_awal = persentil iklim lokal; final dari maksimasi HE (Tahap 7)
+573-F,3,> 30 GT,30,,KM_0030_0050;KM_0050_0100;KM_0100_0200;KM_0200_0300;KM_0300_0500,95,1.5069,,7,20,u_k_awal = persentil iklim lokal; final dari maksimasi HE (Tahap 7)

@@ -1,0 +1,421 @@
+zona,tahun,bulan,n_episode,n_hari_terpicu,hari_dalam_bulan,musim
+1,2021,1,0,0,31,Barat
+1,2021,2,0,0,28,Barat
+1,2021,3,0,0,31,Peralihan I
+1,2021,4,0,0,30,Peralihan I
+1,2021,5,2,4,31,Peralihan I
+1,2021,6,1,1,30,Timur
+1,2021,7,2,6,31,Timur
+1,2021,8,1,8,31,Timur
+1,2021,9,3,9,30,Peralihan II
+1,2021,10,0,0,31,Peralihan II
+1,2021,11,0,0,30,Peralihan II
+1,2021,12,0,0,31,Barat
+1,2022,1,0,0,31,Barat
+1,2022,2,0,0,28,Barat
+1,2022,3,0,0,31,Peralihan I
+1,2022,4,1,2,30,Peralihan I
+1,2022,5,2,4,31,Peralihan I
+1,2022,6,2,3,30,Timur
+1,2022,7,3,13,31,Timur
+1,2022,8,4,13,31,Timur
+1,2022,9,2,6,30,Peralihan II
+1,2022,10,0,0,31,Peralihan II
+1,2022,11,0,0,30,Peralihan II
+1,2022,12,0,0,31,Barat
+1,2023,1,0,0,31,Barat
+1,2023,2,1,1,28,Barat
+1,2023,3,0,0,31,Peralihan I
+1,2023,4,1,2,30,Peralihan I
+1,2023,5,1,1,31,Peralihan I
+1,2023,6,1,5,30,Timur
+1,2023,7,4,15,31,Timur
+1,2023,8,3,9,31,Timur
+1,2023,9,2,10,30,Peralihan II
+1,2023,10,1,3,31,Peralihan II
+1,2023,11,0,0,30,Peralihan II
+1,2023,12,0,0,31,Barat
+1,2024,1,0,0,31,Barat
+1,2024,2,0,0,29,Barat
+1,2024,3,1,2,31,Peralihan I
+1,2024,4,0,0,30,Peralihan I
+1,2024,5,1,2,31,Peralihan I
+1,2024,6,2,4,30,Timur
+1,2024,7,4,5,31,Timur
+1,2024,8,4,10,31,Timur
+1,2024,9,1,3,30,Peralihan II
+1,2024,10,2,4,31,Peralihan II
+1,2024,11,0,0,30,Peralihan II
+1,2024,12,0,0,31,Barat
+1,2025,1,0,0,31,Barat
+1,2025,2,1,3,28,Barat
+1,2025,3,0,0,31,Peralihan I
+1,2025,4,0,0,30,Peralihan I
+1,2025,5,1,2,31,Peralihan I
+1,2025,6,3,7,30,Timur
+1,2025,7,3,13,31,Timur
+1,2025,8,2,6,31,Timur
+1,2025,9,2,5,30,Peralihan II
+1,2025,10,1,2,31,Peralihan II
+1,2025,11,0,0,30,Peralihan II
+1,2025,12,0,0,31,Barat
+2,2021,1,1,2,31,Barat
+2,2021,2,1,2,28,Barat
+2,2021,3,0,0,31,Peralihan I
+2,2021,4,1,1,30,Peralihan I
+2,2021,5,2,4,31,Peralihan I
+2,2021,6,1,4,30,Timur
+2,2021,7,2,9,31,Timur
+2,2021,8,2,8,31,Timur
+2,2021,9,2,7,30,Peralihan II
+2,2021,10,0,0,31,Peralihan II
+2,2021,11,0,0,30,Peralihan II
+2,2021,12,0,0,31,Barat
+2,2022,1,0,0,31,Barat
+2,2022,2,0,0,28,Barat
+2,2022,3,0,0,31,Peralihan I
+2,2022,4,1,1,30,Peralihan I
+2,2022,5,2,4,31,Peralihan I
+2,2022,6,2,3,30,Timur
+2,2022,7,3,12,31,Timur
+2,2022,8,5,9,31,Timur
+2,2022,9,1,5,30,Peralihan II
+2,2022,10,0,0,31,Peralihan II
+2,2022,11,0,0,30,Peralihan II
+2,2022,12,1,1,31,Barat
+2,2023,1,1,1,31,Barat
+2,2023,2,1,2,28,Barat
+2,2023,3,0,0,31,Peralihan I
+2,2023,4,1,2,30,Peralihan I
+2,2023,5,0,0,31,Peralihan I
+2,2023,6,2,4,30,Timur
+2,2023,7,4,11,31,Timur
+2,2023,8,3,7,31,Timur
+2,2023,9,3,8,30,Peralihan II
+2,2023,10,1,2,31,Peralihan II
+2,2023,11,0,0,30,Peralihan II
+2,2023,12,0,0,31,Barat
+2,2024,1,0,0,31,Barat
+2,2024,2,0,0,29,Barat
+2,2024,3,1,4,31,Peralihan I
+2,2024,4,0,0,30,Peralihan I
+2,2024,5,1,3,31,Peralihan I
+2,2024,6,2,5,30,Timur
+2,2024,7,4,5,31,Timur
+2,2024,8,3,6,31,Timur
+2,2024,9,1,2,30,Peralihan II
+2,2024,10,2,4,31,Peralihan II
+2,2024,11,0,0,30,Peralihan II
+2,2024,12,2,2,31,Barat
+2,2025,1,1,2,31,Barat
+2,2025,2,1,5,28,Barat
+2,2025,3,1,1,31,Peralihan I
+2,2025,4,0,0,30,Peralihan I
+2,2025,5,1,2,31,Peralihan I
+2,2025,6,3,7,30,Timur
+2,2025,7,3,10,31,Timur
+2,2025,8,3,8,31,Timur
+2,2025,9,2,6,30,Peralihan II
+2,2025,10,1,2,31,Peralihan II
+2,2025,11,0,0,30,Peralihan II
+2,2025,12,0,0,31,Barat
+3,2021,1,1,2,31,Barat
+3,2021,2,1,7,28,Barat
+3,2021,3,0,0,31,Peralihan I
+3,2021,4,0,0,30,Peralihan I
+3,2021,5,1,2,31,Peralihan I
+3,2021,6,1,3,30,Timur
+3,2021,7,3,7,31,Timur
+3,2021,8,2,7,31,Timur
+3,2021,9,2,6,30,Peralihan II
+3,2021,10,0,0,31,Peralihan II
+3,2021,11,0,0,30,Peralihan II
+3,2021,12,0,0,31,Barat
+3,2022,1,2,3,31,Barat
+3,2022,2,0,0,28,Barat
+3,2022,3,1,1,31,Peralihan I
+3,2022,4,0,0,30,Peralihan I
+3,2022,5,1,2,31,Peralihan I
+3,2022,6,1,1,30,Timur
+3,2022,7,3,12,31,Timur
+3,2022,8,4,9,31,Timur
+3,2022,9,1,4,30,Peralihan II
+3,2022,10,0,0,31,Peralihan II
+3,2022,11,0,0,30,Peralihan II
+3,2022,12,2,4,31,Barat
+3,2023,1,0,5,31,Barat
+3,2023,2,2,2,28,Barat
+3,2023,3,0,0,31,Peralihan I
+3,2023,4,1,2,30,Peralihan I
+3,2023,5,0,0,31,Peralihan I
+3,2023,6,2,3,30,Timur
+3,2023,7,3,10,31,Timur
+3,2023,8,3,6,31,Timur
+3,2023,9,3,9,30,Peralihan II
+3,2023,10,1,2,31,Peralihan II
+3,2023,11,0,0,30,Peralihan II
+3,2023,12,0,0,31,Barat
+3,2024,1,0,0,31,Barat
+3,2024,2,0,0,29,Barat
+3,2024,3,1,7,31,Peralihan I
+3,2024,4,0,0,30,Peralihan I
+3,2024,5,1,2,31,Peralihan I
+3,2024,6,3,7,30,Timur
+3,2024,7,2,3,31,Timur
+3,2024,8,4,7,31,Timur
+3,2024,9,1,1,30,Peralihan II
+3,2024,10,2,4,31,Peralihan II
+3,2024,11,0,0,30,Peralihan II
+3,2024,12,1,1,31,Barat
+3,2025,1,1,3,31,Barat
+3,2025,2,1,8,28,Barat
+3,2025,3,1,1,31,Peralihan I
+3,2025,4,0,0,30,Peralihan I
+3,2025,5,1,2,31,Peralihan I
+3,2025,6,3,7,30,Timur
+3,2025,7,3,10,31,Timur
+3,2025,8,3,7,31,Timur
+3,2025,9,2,3,30,Peralihan II
+3,2025,10,1,1,31,Peralihan II
+3,2025,11,0,0,30,Peralihan II
+3,2025,12,0,0,31,Barat
+4,2021,1,1,4,31,Barat
+4,2021,2,2,8,28,Barat
+4,2021,3,1,1,31,Peralihan I
+4,2021,4,2,3,30,Peralihan I
+4,2021,5,0,0,31,Peralihan I
+4,2021,6,0,0,30,Timur
+4,2021,7,2,7,31,Timur
+4,2021,8,1,6,31,Timur
+4,2021,9,3,5,30,Peralihan II
+4,2021,10,0,0,31,Peralihan II
+4,2021,11,0,0,30,Peralihan II
+4,2021,12,0,0,31,Barat
+4,2022,1,3,7,31,Barat
+4,2022,2,0,1,28,Barat
+4,2022,3,1,3,31,Peralihan I
+4,2022,4,0,0,30,Peralihan I
+4,2022,5,1,2,31,Peralihan I
+4,2022,6,0,0,30,Timur
+4,2022,7,4,11,31,Timur
+4,2022,8,4,6,31,Timur
+4,2022,9,0,0,30,Peralihan II
+4,2022,10,0,0,31,Peralihan II
+4,2022,11,0,0,30,Peralihan II
+4,2022,12,2,7,31,Barat
+4,2023,1,0,6,31,Barat
+4,2023,2,3,6,28,Barat
+4,2023,3,0,0,31,Peralihan I
+4,2023,4,0,0,30,Peralihan I
+4,2023,5,0,0,31,Peralihan I
+4,2023,6,0,0,30,Timur
+4,2023,7,3,11,31,Timur
+4,2023,8,3,4,31,Timur
+4,2023,9,2,7,30,Peralihan II
+4,2023,10,1,2,31,Peralihan II
+4,2023,11,0,0,30,Peralihan II
+4,2023,12,0,0,31,Barat
+4,2024,1,1,4,31,Barat
+4,2024,2,0,0,29,Barat
+4,2024,3,1,8,31,Peralihan I
+4,2024,4,0,0,30,Peralihan I
+4,2024,5,1,2,31,Peralihan I
+4,2024,6,3,6,30,Timur
+4,2024,7,3,6,31,Timur
+4,2024,8,3,6,31,Timur
+4,2024,9,1,1,30,Peralihan II
+4,2024,10,1,3,31,Peralihan II
+4,2024,11,0,0,30,Peralihan II
+4,2024,12,0,0,31,Barat
+4,2025,1,2,7,31,Barat
+4,2025,2,0,13,28,Barat
+4,2025,3,1,2,31,Peralihan I
+4,2025,4,0,0,30,Peralihan I
+4,2025,5,0,0,31,Peralihan I
+4,2025,6,3,7,30,Timur
+4,2025,7,2,5,31,Timur
+4,2025,8,2,5,31,Timur
+4,2025,9,1,1,30,Peralihan II
+4,2025,10,0,0,31,Peralihan II
+4,2025,11,0,0,30,Peralihan II
+4,2025,12,0,0,31,Barat
+5,2021,1,1,7,31,Barat
+5,2021,2,1,9,28,Barat
+5,2021,3,1,1,31,Peralihan I
+5,2021,4,1,6,30,Peralihan I
+5,2021,5,1,1,31,Peralihan I
+5,2021,6,0,0,30,Timur
+5,2021,7,1,2,31,Timur
+5,2021,8,1,3,31,Timur
+5,2021,9,1,2,30,Peralihan II
+5,2021,10,0,0,31,Peralihan II
+5,2021,11,0,0,30,Peralihan II
+5,2021,12,1,6,31,Barat
+5,2022,1,2,15,31,Barat
+5,2022,2,2,9,28,Barat
+5,2022,3,0,3,31,Peralihan I
+5,2022,4,0,0,30,Peralihan I
+5,2022,5,0,0,31,Peralihan I
+5,2022,6,2,2,30,Timur
+5,2022,7,3,7,31,Timur
+5,2022,8,2,2,31,Timur
+5,2022,9,0,0,30,Peralihan II
+5,2022,10,0,0,31,Peralihan II
+5,2022,11,0,0,30,Peralihan II
+5,2022,12,1,7,31,Barat
+5,2023,1,0,7,31,Barat
+5,2023,2,4,13,28,Barat
+5,2023,3,0,3,31,Peralihan I
+5,2023,4,1,3,30,Peralihan I
+5,2023,5,1,1,31,Peralihan I
+5,2023,6,0,0,30,Timur
+5,2023,7,1,5,31,Timur
+5,2023,8,2,3,31,Timur
+5,2023,9,1,3,30,Peralihan II
+5,2023,10,0,0,31,Peralihan II
+5,2023,11,0,0,30,Peralihan II
+5,2023,12,0,0,31,Barat
+5,2024,1,2,12,31,Barat
+5,2024,2,0,0,29,Barat
+5,2024,3,1,8,31,Peralihan I
+5,2024,4,0,0,30,Peralihan I
+5,2024,5,0,0,31,Peralihan I
+5,2024,6,1,3,30,Timur
+5,2024,7,2,5,31,Timur
+5,2024,8,1,1,31,Timur
+5,2024,9,0,0,30,Peralihan II
+5,2024,10,0,0,31,Peralihan II
+5,2024,11,0,0,30,Peralihan II
+5,2024,12,1,1,31,Barat
+5,2025,1,2,4,31,Barat
+5,2025,2,0,13,28,Barat
+5,2025,3,2,4,31,Peralihan I
+5,2025,4,1,1,30,Peralihan I
+5,2025,5,0,0,31,Peralihan I
+5,2025,6,3,8,30,Timur
+5,2025,7,0,1,31,Timur
+5,2025,8,1,1,31,Timur
+5,2025,9,0,0,30,Peralihan II
+5,2025,10,0,0,31,Peralihan II
+5,2025,11,0,0,30,Peralihan II
+5,2025,12,1,1,31,Barat
+6,2021,1,2,6,31,Barat
+6,2021,2,2,5,28,Barat
+6,2021,3,0,0,31,Peralihan I
+6,2021,4,1,5,30,Peralihan I
+6,2021,5,1,2,31,Peralihan I
+6,2021,6,1,2,30,Timur
+6,2021,7,1,2,31,Timur
+6,2021,8,2,4,31,Timur
+6,2021,9,1,5,30,Peralihan II
+6,2021,10,0,0,31,Peralihan II
+6,2021,11,0,0,30,Peralihan II
+6,2021,12,1,3,31,Barat
+6,2022,1,2,6,31,Barat
+6,2022,2,1,7,28,Barat
+6,2022,3,0,0,31,Peralihan I
+6,2022,4,0,0,30,Peralihan I
+6,2022,5,1,2,31,Peralihan I
+6,2022,6,3,9,30,Timur
+6,2022,7,2,9,31,Timur
+6,2022,8,1,6,31,Timur
+6,2022,9,0,0,30,Peralihan II
+6,2022,10,0,0,31,Peralihan II
+6,2022,11,0,0,30,Peralihan II
+6,2022,12,2,5,31,Barat
+6,2023,1,0,7,31,Barat
+6,2023,2,2,9,28,Barat
+6,2023,3,0,3,31,Peralihan I
+6,2023,4,1,2,30,Peralihan I
+6,2023,5,3,9,31,Peralihan I
+6,2023,6,0,0,30,Timur
+6,2023,7,4,8,31,Timur
+6,2023,8,2,4,31,Timur
+6,2023,9,0,0,30,Peralihan II
+6,2023,10,0,0,31,Peralihan II
+6,2023,11,0,0,30,Peralihan II
+6,2023,12,0,0,31,Barat
+6,2024,1,3,8,31,Barat
+6,2024,2,0,0,29,Barat
+6,2024,3,1,4,31,Peralihan I
+6,2024,4,0,0,30,Peralihan I
+6,2024,5,1,4,31,Peralihan I
+6,2024,6,3,8,30,Timur
+6,2024,7,3,10,31,Timur
+6,2024,8,0,0,31,Timur
+6,2024,9,1,1,30,Peralihan II
+6,2024,10,0,0,31,Peralihan II
+6,2024,11,0,0,30,Peralihan II
+6,2024,12,0,0,31,Barat
+6,2025,1,0,0,31,Barat
+6,2025,2,1,10,28,Barat
+6,2025,3,0,0,31,Peralihan I
+6,2025,4,0,0,30,Peralihan I
+6,2025,5,1,3,31,Peralihan I
+6,2025,6,2,7,30,Timur
+6,2025,7,0,2,31,Timur
+6,2025,8,2,4,31,Timur
+6,2025,9,1,1,30,Peralihan II
+6,2025,10,0,0,31,Peralihan II
+6,2025,11,1,1,30,Peralihan II
+6,2025,12,0,0,31,Barat
+7,2021,1,1,6,31,Barat
+7,2021,2,1,8,28,Barat
+7,2021,3,0,0,31,Peralihan I
+7,2021,4,1,1,30,Peralihan I
+7,2021,5,1,2,31,Peralihan I
+7,2021,6,1,1,30,Timur
+7,2021,7,1,2,31,Timur
+7,2021,8,2,4,31,Timur
+7,2021,9,2,6,30,Peralihan II
+7,2021,10,0,0,31,Peralihan II
+7,2021,11,0,0,30,Peralihan II
+7,2021,12,1,5,31,Barat
+7,2022,1,2,6,31,Barat
+7,2022,2,1,9,28,Barat
+7,2022,3,0,0,31,Peralihan I
+7,2022,4,0,0,30,Peralihan I
+7,2022,5,1,2,31,Peralihan I
+7,2022,6,3,10,30,Timur
+7,2022,7,2,8,31,Timur
+7,2022,8,2,4,31,Timur
+7,2022,9,0,0,30,Peralihan II
+7,2022,10,0,0,31,Peralihan II
+7,2022,11,0,0,30,Peralihan II
+7,2022,12,1,4,31,Barat
+7,2023,1,0,8,31,Barat
+7,2023,2,2,8,28,Barat
+7,2023,3,0,4,31,Peralihan I
+7,2023,4,1,1,30,Peralihan I
+7,2023,5,3,6,31,Peralihan I
+7,2023,6,1,1,30,Timur
+7,2023,7,2,6,31,Timur
+7,2023,8,1,1,31,Timur
+7,2023,9,0,0,30,Peralihan II
+7,2023,10,0,0,31,Peralihan II
+7,2023,11,0,0,30,Peralihan II
+7,2023,12,0,0,31,Barat
+7,2024,1,2,13,31,Barat
+7,2024,2,0,0,29,Barat
+7,2024,3,1,6,31,Peralihan I
+7,2024,4,0,0,30,Peralihan I
+7,2024,5,1,4,31,Peralihan I
+7,2024,6,3,6,30,Timur
+7,2024,7,3,7,31,Timur
+7,2024,8,0,0,31,Timur
+7,2024,9,1,2,30,Peralihan II
+7,2024,10,0,0,31,Peralihan II
+7,2024,11,0,0,30,Peralihan II
+7,2024,12,0,0,31,Barat
+7,2025,1,0,0,31,Barat
+7,2025,2,1,9,28,Barat
+7,2025,3,0,0,31,Peralihan I
+7,2025,4,2,3,30,Peralihan I
+7,2025,5,2,7,31,Peralihan I
+7,2025,6,2,6,30,Timur
+7,2025,7,0,2,31,Timur
+7,2025,8,1,2,31,Timur
+7,2025,9,0,0,30,Peralihan II
+7,2025,10,0,0,31,Peralihan II
+7,2025,11,1,3,30,Peralihan II
+7,2025,12,0,0,31,Barat

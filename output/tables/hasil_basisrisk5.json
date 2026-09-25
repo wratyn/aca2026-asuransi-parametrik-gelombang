@@ -1,0 +1,353 @@
+{
+  "ringkas": [
+    {
+      "rancangan": "A. absolut 2,0 m + indeks WPP",
+      "n_sel": 189,
+      "hari_bayar_thn_med": 71.25,
+      "premi_musim_med": 1131250.0,
+      "he_med": -0.08099000868170525,
+      "he_q1": -1.9192471159684277,
+      "he_q3": 0.14924447080011427,
+      "pct_he_negatif": 51.85185185185185,
+      "fn_med": 36.58536585365854,
+      "ce_gain_med": 113312.88057522243,
+      "pct_ce_negatif": 41.269841269841265
+    },
+    {
+      "rancangan": "B. absolut 2,0 m + indeks zona",
+      "n_sel": 189,
+      "hari_bayar_thn_med": 10.5,
+      "premi_musim_med": 262500.0,
+      "he_med": 0.05845694768122911,
+      "he_q1": 0.0,
+      "he_q3": 0.4740740740740741,
+      "pct_he_negatif": 21.693121693121693,
+      "fn_med": 52.42718446601942,
+      "ce_gain_med": 29756.04231523536,
+      "pct_ce_negatif": 24.33862433862434
+    },
+    {
+      "rancangan": "C. relatif p90 lokal + indeks zona",
+      "n_sel": 218,
+      "hari_bayar_thn_med": 36.5,
+      "premi_musim_med": 787500.0,
+      "he_med": 0.5253626123952793,
+      "he_q1": 0.3563648570495524,
+      "he_q3": 0.6064045964724295,
+      "pct_he_negatif": 5.5045871559633035,
+      "fn_med": 32.19178082191781,
+      "ce_gain_med": 559568.7843966419,
+      "pct_ce_negatif": 5.045871559633028
+    }
+  ],
+  "per_zona": [
+    {
+      "rancangan": "A",
+      "zona": 1,
+      "lon": "104-108E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 71.25,
+      "premi_musim": 1131250.0,
+      "he_med": 0.13966916044326927,
+      "fn_med": 72.79843444227006,
+      "ce_gain_med": 365245.7438828768
+    },
+    {
+      "rancangan": "A",
+      "zona": 2,
+      "lon": "108-112E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 71.25,
+      "premi_musim": 1131250.0,
+      "he_med": 0.1456054299669396,
+      "fn_med": 64.34010152284264,
+      "ce_gain_med": 368595.3411222473
+    },
+    {
+      "rancangan": "A",
+      "zona": 3,
+      "lon": "112-116E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 71.25,
+      "premi_musim": 1131250.0,
+      "he_med": 0.15710075550345182,
+      "fn_med": 51.351351351351354,
+      "ce_gain_med": 367840.8621694073
+    },
+    {
+      "rancangan": "A",
+      "zona": 4,
+      "lon": "116-120E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 71.25,
+      "premi_musim": 1131250.0,
+      "he_med": -1.7181140184553154,
+      "fn_med": 7.6923076923076925,
+      "ce_gain_med": -117075.31110733189
+    },
+    {
+      "rancangan": "A",
+      "zona": 5,
+      "lon": "120-124E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 71.25,
+      "premi_musim": 1131250.0,
+      "he_med": -1.0808929274017396,
+      "fn_med": 14.023421992854306,
+      "ce_gain_med": -76038.9331234768
+    },
+    {
+      "rancangan": "A",
+      "zona": 6,
+      "lon": "124-128E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 71.25,
+      "premi_musim": 1131250.0,
+      "he_med": -1.5707671957671958,
+      "fn_med": 25.714285714285715,
+      "ce_gain_med": -99825.08743734565
+    },
+    {
+      "rancangan": "A",
+      "zona": 7,
+      "lon": "128-128E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 71.25,
+      "premi_musim": 1131250.0,
+      "he_med": -0.13357901272463446,
+      "fn_med": 43.87520147363574,
+      "ce_gain_med": -40410.66810473637
+    },
+    {
+      "rancangan": "B",
+      "zona": 1,
+      "lon": "104-108E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 250.5,
+      "premi_musim": 1500000.0,
+      "he_med": 0.0,
+      "fn_med": 5.675146771037182,
+      "ce_gain_med": 0.0
+    },
+    {
+      "rancangan": "B",
+      "zona": 2,
+      "lon": "108-112E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 111.75,
+      "premi_musim": 1462500.0,
+      "he_med": 0.02918218350901558,
+      "fn_med": 43.401015228426395,
+      "ce_gain_med": 37499.05632281583
+    },
+    {
+      "rancangan": "B",
+      "zona": 3,
+      "lon": "112-116E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 10.5,
+      "premi_musim": 262500.0,
+      "he_med": 0.155939018659624,
+      "fn_med": 92.43243243243244,
+      "ce_gain_med": 172399.73537977273
+    },
+    {
+      "rancangan": "B",
+      "zona": 4,
+      "lon": "116-120E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 4.0,
+      "premi_musim": 100000.0,
+      "he_med": -0.03628469864428174,
+      "fn_med": 52.94117647058823,
+      "ce_gain_med": -20471.93722620886
+    },
+    {
+      "rancangan": "B",
+      "zona": 5,
+      "lon": "120-124E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 3.75,
+      "premi_musim": 93750.0,
+      "he_med": 0.37184034657514575,
+      "fn_med": 53.11355311355311,
+      "ce_gain_med": 59235.02582606999
+    },
+    {
+      "rancangan": "B",
+      "zona": 6,
+      "lon": "124-128E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 0.75,
+      "premi_musim": 18750.0,
+      "he_med": 0.1692363805165954,
+      "fn_med": 93.02325581395348,
+      "ce_gain_med": 15282.40933084488
+    },
+    {
+      "rancangan": "B",
+      "zona": 7,
+      "lon": "128-128E",
+      "u_indeks": 2.0,
+      "u_lokal_med": 2.0,
+      "hari_bayar_thn": 12.5,
+      "premi_musim": 312500.0,
+      "he_med": 0.6430743508271577,
+      "fn_med": 45.55335968379447,
+      "ce_gain_med": 286885.0467983729
+    },
+    {
+      "rancangan": "C",
+      "zona": 1,
+      "lon": "104-108E",
+      "u_indeks": 2.98,
+      "u_lokal_med": 3.07,
+      "hari_bayar_thn": 36.5,
+      "premi_musim": 712500.0,
+      "he_med": 0.6053415433906535,
+      "fn_med": 23.972602739726028,
+      "ce_gain_med": 761483.617726295
+    },
+    {
+      "rancangan": "C",
+      "zona": 2,
+      "lon": "108-112E",
+      "u_indeks": 2.37,
+      "u_lokal_med": 2.71,
+      "hari_bayar_thn": 36.5,
+      "premi_musim": 750000.0,
+      "he_med": 0.5846408709028518,
+      "fn_med": 23.28767123287671,
+      "ce_gain_med": 708269.294641417
+    },
+    {
+      "rancangan": "C",
+      "zona": 3,
+      "lon": "112-116E",
+      "u_indeks": 1.75,
+      "u_lokal_med": 2.26,
+      "hari_bayar_thn": 36.5,
+      "premi_musim": 787500.0,
+      "he_med": 0.5410820534108205,
+      "fn_med": 31.506849315068493,
+      "ce_gain_med": 574517.7509195581
+    },
+    {
+      "rancangan": "C",
+      "zona": 4,
+      "lon": "116-120E",
+      "u_indeks": 1.51,
+      "u_lokal_med": 1.2,
+      "hari_bayar_thn": 36.5,
+      "premi_musim": 875000.0,
+      "he_med": 0.3443001770814761,
+      "fn_med": 42.12328767123287,
+      "ce_gain_med": 507681.6783808791
+    },
+    {
+      "rancangan": "C",
+      "zona": 5,
+      "lon": "120-124E",
+      "u_indeks": 1.25,
+      "u_lokal_med": 1.27,
+      "hari_bayar_thn": 36.5,
+      "premi_musim": 756250.0,
+      "he_med": 0.37979323414927546,
+      "fn_med": 39.04109589041096,
+      "ce_gain_med": 495820.02004775545
+    },
+    {
+      "rancangan": "C",
+      "zona": 6,
+      "lon": "124-128E",
+      "u_indeks": 1.17,
+      "u_lokal_med": 1.33,
+      "hari_bayar_thn": 36.5,
+      "premi_musim": 837500.0,
+      "he_med": 0.47152931270392595,
+      "fn_med": 36.986301369863014,
+      "ce_gain_med": 495665.4436425334
+    },
+    {
+      "rancangan": "C",
+      "zona": 7,
+      "lon": "128-128E",
+      "u_indeks": 1.57,
+      "u_lokal_med": 1.76,
+      "hari_bayar_thn": 36.5,
+      "premi_musim": 831250.0,
+      "he_med": 0.6804526085866724,
+      "fn_med": 28.08219178082192,
+      "ce_gain_med": 538581.5667964364
+    }
+  ],
+  "diagnostik_ambang_relatif": {
+    "zona 1": {
+      "u_p90": 2.98,
+      "n_episode": 52,
+      "episode_per_thn": 13.0,
+      "durasi_rata": 2.81,
+      "durasi_maks": 8,
+      "extremal_index": 0.356,
+      "rasio_var_mean_HARI": 5.47,
+      "rasio_var_mean_EPISODE": 1.525,
+      "geom_ks_p": 0.0,
+      "aic": {
+        "J=0": 144.29,
+        "J=1": 96.25,
+        "J=2": 97.24
+      },
+      "LR_stat": 55.05,
+      "LR_p": 0.0
+    },
+    "zona 3": {
+      "u_p90": 1.75,
+      "n_episode": 57,
+      "episode_per_thn": 14.25,
+      "durasi_rata": 2.56,
+      "durasi_maks": 7,
+      "extremal_index": 0.39,
+      "rasio_var_mean_HARI": 3.791,
+      "rasio_var_mean_EPISODE": 1.242,
+      "geom_ks_p": 0.0,
+      "aic": {
+        "J=0": 143.42,
+        "J=1": 122.68,
+        "J=2": 117.54
+      },
+      "LR_stat": 33.88,
+      "LR_p": 0.0
+    },
+    "zona 5": {
+      "u_p90": 1.25,
+      "n_episode": 38,
+      "episode_per_thn": 9.5,
+      "durasi_rata": 3.84,
+      "durasi_maks": 14,
+      "extremal_index": 0.26,
+      "rasio_var_mean_HARI": 4.63,
+      "rasio_var_mean_EPISODE": 1.019,
+      "geom_ks_p": 0.0093,
+      "aic": {
+        "J=0": 114.5,
+        "J=1": 117.18,
+        "J=2": 102.8
+      },
+      "LR_stat": 19.71,
+      "LR_p": 0.00057
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "k_terpilih": 6,
+  "ambang_keterwakilan": 0.75,
+  "d0_km_deret_mentah": 1867.9619860140976,
+  "nugget_mentah": 2.0893372792652982e-11,
+  "d0_km_anomali": 1648.3809690873281,
+  "nugget_anomali": 1.346121334511952e-11,
+  "n_sel_pesisir": 114,
+  "n_sel_pesisir_definisi_lama": 218,
+  "n_sel_laut": 776,
+  "n_komponen_konektivitas": 4,
+  "radius_tetangga_km": 120.0,
+  "periode": [
+    "2001-01-01",
+    "2025-12-31"
+  ]
+}

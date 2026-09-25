@@ -1,0 +1,603 @@
+provinsi,tahun,bulan,ntn,sumber
+BALI,2020,1,100.49,perikanan_gabungan
+BALI,2020,2,99.37,perikanan_gabungan
+BALI,2020,3,100.16,perikanan_gabungan
+BALI,2020,4,98.7,perikanan_gabungan
+BALI,2020,5,98.85,perikanan_gabungan
+BALI,2020,6,99.57,perikanan_gabungan
+BALI,2020,7,99.8,perikanan_gabungan
+BALI,2020,8,99.18,perikanan_gabungan
+BALI,2020,9,100.38,perikanan_gabungan
+BALI,2020,10,100.3,perikanan_gabungan
+BALI,2020,11,98.52,perikanan_gabungan
+BALI,2020,12,100.11,perikanan_gabungan
+BALI,2021,1,98.82,perikanan_gabungan
+BALI,2021,2,98.92,perikanan_gabungan
+BALI,2021,3,97.9,perikanan_gabungan
+BALI,2021,4,100.0,perikanan_gabungan
+BALI,2021,5,99.24,perikanan_gabungan
+BALI,2021,6,100.95,perikanan_gabungan
+BALI,2021,7,101.62,perikanan_gabungan
+BALI,2021,8,100.03,perikanan_gabungan
+BALI,2021,9,101.97,perikanan_gabungan
+BALI,2021,10,100.92,perikanan_gabungan
+BALI,2021,11,101.03,perikanan_gabungan
+BALI,2021,12,101.54,perikanan_gabungan
+BALI,2022,1,101.87,perikanan_gabungan
+BALI,2022,2,99.97,perikanan_gabungan
+BALI,2022,3,99.92,perikanan_gabungan
+BALI,2022,4,100.17,perikanan_gabungan
+BALI,2022,5,101.33,perikanan_gabungan
+BALI,2022,6,101.07,perikanan_gabungan
+BALI,2022,7,102.26,perikanan_gabungan
+BALI,2022,8,102.32,perikanan_gabungan
+BALI,2022,9,99.84,perikanan_gabungan
+BALI,2022,10,98.72,perikanan_gabungan
+BALI,2022,11,99.27,perikanan_gabungan
+BALI,2022,12,98.9,perikanan_gabungan
+BALI,2023,1,100.72,perikanan_gabungan
+BALI,2023,2,102.99,perikanan_gabungan
+BALI,2023,3,100.32,perikanan_gabungan
+BALI,2023,4,100.98,perikanan_gabungan
+BALI,2023,5,103.01,perikanan_gabungan
+BALI,2023,6,102.09,perikanan_gabungan
+BALI,2023,7,102.81,perikanan_gabungan
+BALI,2023,8,102.29,perikanan_gabungan
+BALI,2023,9,101.77,perikanan_gabungan
+BALI,2023,10,101.17,perikanan_gabungan
+BALI,2023,11,98.35,perikanan_gabungan
+BALI,2023,12,95.8,perikanan_gabungan
+BALI,2024,1,93.77,perikanan_gabungan
+BALI,2024,2,91.33,perikanan_gabungan
+BALI,2024,3,92.12,perikanan_gabungan
+BALI,2024,4,92.21,perikanan_gabungan
+BALI,2024,5,93.97,perikanan_gabungan
+BALI,2024,6,95.13,perikanan_gabungan
+BALI,2024,7,92.7,perikanan_gabungan
+BALI,2024,8,93.65,perikanan_gabungan
+BALI,2024,9,94.45,perikanan_gabungan
+BALI,2024,10,92.5,perikanan_gabungan
+BALI,2024,11,93.86,perikanan_gabungan
+BALI,2024,12,94.65,perikanan_gabungan
+BALI,2025,1,95.14,perikanan_gabungan
+BALI,2025,2,98.21,perikanan_gabungan
+BALI,2025,3,95.4,perikanan_gabungan
+BALI,2025,4,95.85,perikanan_gabungan
+BALI,2025,5,97.91,perikanan_gabungan
+BALI,2025,6,97.98,perikanan_gabungan
+BALI,2025,7,97.03,perikanan_gabungan
+BALI,2025,8,97.62,perikanan_gabungan
+BALI,2025,9,100.04,perikanan_gabungan
+BALI,2025,10,98.9,perikanan_gabungan
+BALI,2025,11,98.53,perikanan_gabungan
+BALI,2025,12,98.94,perikanan_gabungan
+BALI,2026,1,102.16,perikanan_gabungan
+BALI,2026,2,102.93,perikanan_gabungan
+BALI,2026,3,104.13,perikanan_gabungan
+BALI,2026,4,102.16,perikanan_gabungan
+BALI,2026,5,103.41,perikanan_gabungan
+BALI,2026,6,101.54,perikanan_gabungan
+BALI,2026,7,104.18,perikanan_gabungan
+BALI,2026,8,105.35,perikanan_gabungan
+BANTEN,2020,1,100.42,perikanan_gabungan
+BANTEN,2020,2,99.5,perikanan_gabungan
+BANTEN,2020,3,99.4,perikanan_gabungan
+BANTEN,2020,4,98.22,perikanan_gabungan
+BANTEN,2020,5,97.96,perikanan_gabungan
+BANTEN,2020,6,98.47,perikanan_gabungan
+BANTEN,2020,7,97.33,perikanan_gabungan
+BANTEN,2020,8,97.6,perikanan_gabungan
+BANTEN,2020,9,97.45,perikanan_gabungan
+BANTEN,2020,10,97.67,perikanan_gabungan
+BANTEN,2020,11,97.75,perikanan_gabungan
+BANTEN,2020,12,98.73,perikanan_gabungan
+BANTEN,2021,1,98.65,perikanan_gabungan
+BANTEN,2021,2,100.02,perikanan_gabungan
+BANTEN,2021,3,100.45,perikanan_gabungan
+BANTEN,2021,4,100.84,perikanan_gabungan
+BANTEN,2021,5,101.39,perikanan_gabungan
+BANTEN,2021,6,101.04,perikanan_gabungan
+BANTEN,2021,7,100.85,perikanan_gabungan
+BANTEN,2021,8,100.38,perikanan_gabungan
+BANTEN,2021,9,101.8,perikanan_gabungan
+BANTEN,2021,10,102.83,perikanan_gabungan
+BANTEN,2021,11,102.14,perikanan_gabungan
+BANTEN,2021,12,101.94,perikanan_gabungan
+BANTEN,2022,1,102.12,perikanan_gabungan
+BANTEN,2022,2,102.99,perikanan_gabungan
+BANTEN,2022,3,103.44,perikanan_gabungan
+BANTEN,2022,4,103.87,perikanan_gabungan
+BANTEN,2022,5,103.08,perikanan_gabungan
+BANTEN,2022,6,102.42,perikanan_gabungan
+BANTEN,2022,7,102.34,perikanan_gabungan
+BANTEN,2022,8,102.43,perikanan_gabungan
+BANTEN,2022,9,101.69,perikanan_gabungan
+BANTEN,2022,10,101.02,perikanan_gabungan
+BANTEN,2022,11,100.75,perikanan_gabungan
+BANTEN,2022,12,100.41,perikanan_gabungan
+BANTEN,2023,1,100.19,perikanan_gabungan
+BANTEN,2023,2,99.66,perikanan_gabungan
+BANTEN,2023,3,99.55,perikanan_gabungan
+BANTEN,2023,4,100.18,perikanan_gabungan
+BANTEN,2023,5,100.21,perikanan_gabungan
+BANTEN,2023,6,99.92,perikanan_gabungan
+BANTEN,2023,7,100.01,perikanan_gabungan
+BANTEN,2023,8,100.27,perikanan_gabungan
+BANTEN,2023,9,99.71,perikanan_gabungan
+BANTEN,2023,10,99.36,perikanan_gabungan
+BANTEN,2023,11,98.58,perikanan_gabungan
+BANTEN,2023,12,98.1,perikanan_gabungan
+BANTEN,2024,1,96.88,perikanan_gabungan
+BANTEN,2024,2,96.68,perikanan_gabungan
+BANTEN,2024,3,97.72,perikanan_gabungan
+BANTEN,2024,4,96.27,perikanan_gabungan
+BANTEN,2024,5,96.03,perikanan_gabungan
+BANTEN,2024,6,96.17,perikanan_gabungan
+BANTEN,2024,7,95.88,perikanan_gabungan
+BANTEN,2024,8,96.16,perikanan_gabungan
+BANTEN,2024,9,97.4,perikanan_gabungan
+BANTEN,2024,10,97.27,perikanan_gabungan
+BANTEN,2024,11,96.44,perikanan_gabungan
+BANTEN,2024,12,97.3,perikanan_gabungan
+BANTEN,2025,1,95.95,perikanan_gabungan
+BANTEN,2025,2,97.07,perikanan_gabungan
+BANTEN,2025,3,96.63,perikanan_gabungan
+BANTEN,2025,4,96.65,perikanan_gabungan
+BANTEN,2025,5,96.55,perikanan_gabungan
+BANTEN,2025,6,96.59,perikanan_gabungan
+BANTEN,2025,7,96.42,perikanan_gabungan
+BANTEN,2025,8,97.63,perikanan_gabungan
+BANTEN,2025,9,98.52,perikanan_gabungan
+BANTEN,2025,10,98.16,perikanan_gabungan
+BANTEN,2025,11,98.54,perikanan_gabungan
+BANTEN,2025,12,99.37,perikanan_gabungan
+BANTEN,2026,1,100.09,perikanan_gabungan
+BANTEN,2026,2,101.33,perikanan_gabungan
+BANTEN,2026,3,100.21,perikanan_gabungan
+BANTEN,2026,4,100.23,perikanan_gabungan
+BANTEN,2026,5,99.88,perikanan_gabungan
+BANTEN,2026,6,99.31,perikanan_gabungan
+BANTEN,2026,7,99.74,perikanan_gabungan
+BANTEN,2026,8,100.09,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,1,95.96,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,2,94.77,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,3,94.74,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,4,94.55,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,5,94.7,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,6,95.67,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,7,97.16,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,8,96.21,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,9,97.62,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,10,98.57,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,11,98.39,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2020,12,96.85,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,1,96.95,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,2,96.51,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,3,94.12,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,4,94.14,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,5,94.36,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,6,94.41,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,7,93.97,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,8,93.83,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,9,94.2,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,10,93.76,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,11,93.32,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2021,12,92.83,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,1,93.26,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,2,93.18,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,3,92.8,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,4,92.71,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,5,92.87,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,6,92.04,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,7,91.98,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,8,93.44,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,9,93.04,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,10,93.19,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,11,92.73,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2022,12,92.49,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,1,92.57,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,2,92.21,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,3,92.01,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,4,91.91,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,5,91.21,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,6,91.41,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,7,91.29,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,8,91.52,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,9,91.3,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,10,91.23,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,11,90.52,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2023,12,90.25,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,1,89.66,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,2,89.3,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,3,88.98,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,4,89.25,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,5,88.75,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,6,88.74,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,7,88.87,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,8,89.23,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,9,89.47,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,10,89.24,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,11,88.7,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2024,12,88.65,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,1,89.47,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,2,92.57,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,3,93.19,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,4,91.41,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,5,93.87,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,6,93.53,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,7,92.61,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,8,94.63,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,9,92.67,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,10,94.02,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,11,93.8,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2025,12,95.94,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2026,1,95.5,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2026,2,94.8,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2026,3,96.44,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2026,4,96.92,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2026,5,95.63,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2026,6,95.33,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2026,7,98.43,perikanan_gabungan
+DAERAH ISTIMEWA YOGYAKARTA,2026,8,100.1,perikanan_gabungan
+JAWA BARAT,2020,6,97.27,perikanan_tangkap
+JAWA BARAT,2020,7,97.28,perikanan_tangkap
+JAWA BARAT,2020,8,99.07,perikanan_tangkap
+JAWA BARAT,2020,9,101.35,perikanan_tangkap
+JAWA BARAT,2020,10,102.27,perikanan_tangkap
+JAWA BARAT,2020,11,103.39,perikanan_tangkap
+JAWA BARAT,2020,12,104.3,perikanan_tangkap
+JAWA BARAT,2021,1,106.36,perikanan_tangkap
+JAWA BARAT,2021,2,104.86,perikanan_tangkap
+JAWA BARAT,2021,3,105.42,perikanan_tangkap
+JAWA BARAT,2021,4,107.32,perikanan_tangkap
+JAWA BARAT,2021,5,107.86,perikanan_tangkap
+JAWA BARAT,2021,6,108.27,perikanan_tangkap
+JAWA BARAT,2021,7,108.45,perikanan_tangkap
+JAWA BARAT,2021,8,109.49,perikanan_tangkap
+JAWA BARAT,2021,9,110.21,perikanan_tangkap
+JAWA BARAT,2021,10,112.67,perikanan_tangkap
+JAWA BARAT,2021,11,112.12,perikanan_tangkap
+JAWA BARAT,2021,12,113.23,perikanan_tangkap
+JAWA BARAT,2022,1,113.64,perikanan_tangkap
+JAWA BARAT,2022,2,114.7,perikanan_tangkap
+JAWA BARAT,2022,3,113.78,perikanan_tangkap
+JAWA BARAT,2022,4,111.56,perikanan_tangkap
+JAWA BARAT,2022,5,113.79,perikanan_tangkap
+JAWA BARAT,2022,6,113.32,perikanan_tangkap
+JAWA BARAT,2022,7,111.3,perikanan_tangkap
+JAWA BARAT,2022,8,111.41,perikanan_tangkap
+JAWA BARAT,2022,9,108.85,perikanan_tangkap
+JAWA BARAT,2022,10,111.02,perikanan_tangkap
+JAWA BARAT,2022,11,111.36,perikanan_tangkap
+JAWA BARAT,2022,12,110.5,perikanan_tangkap
+JAWA BARAT,2023,1,110.36,perikanan_tangkap
+JAWA BARAT,2023,2,111.76,perikanan_tangkap
+JAWA BARAT,2023,3,111.32,perikanan_tangkap
+JAWA BARAT,2023,4,113.08,perikanan_tangkap
+JAWA BARAT,2023,5,113.42,perikanan_tangkap
+JAWA BARAT,2023,6,113.87,perikanan_tangkap
+JAWA BARAT,2023,7,113.82,perikanan_tangkap
+JAWA BARAT,2023,8,115.31,perikanan_tangkap
+JAWA BARAT,2023,9,115.59,perikanan_tangkap
+JAWA BARAT,2023,10,116.93,perikanan_tangkap
+JAWA BARAT,2023,11,116.89,perikanan_tangkap
+JAWA BARAT,2023,12,113.4,perikanan_tangkap
+JAWA BARAT,2024,1,113.93,perikanan_tangkap
+JAWA BARAT,2024,2,113.35,perikanan_tangkap
+JAWA BARAT,2024,3,111.4,perikanan_tangkap
+JAWA BARAT,2024,4,112.9,perikanan_tangkap
+JAWA BARAT,2024,5,112.21,perikanan_tangkap
+JAWA BARAT,2024,6,112.65,perikanan_tangkap
+JAWA BARAT,2024,7,112.98,perikanan_tangkap
+JAWA BARAT,2024,8,113.61,perikanan_tangkap
+JAWA BARAT,2024,9,113.61,perikanan_tangkap
+JAWA BARAT,2024,10,112.18,perikanan_tangkap
+JAWA BARAT,2024,11,111.95,perikanan_tangkap
+JAWA BARAT,2024,12,110.23,perikanan_tangkap
+JAWA BARAT,2025,1,109.11,perikanan_tangkap
+JAWA BARAT,2025,2,110.61,perikanan_tangkap
+JAWA BARAT,2025,3,112.54,perikanan_tangkap
+JAWA BARAT,2025,4,113.21,perikanan_tangkap
+JAWA BARAT,2025,5,113.54,perikanan_tangkap
+JAWA BARAT,2025,6,113.5,perikanan_tangkap
+JAWA BARAT,2025,7,113.44,perikanan_tangkap
+JAWA BARAT,2025,8,114.09,perikanan_tangkap
+JAWA BARAT,2025,9,113.22,perikanan_tangkap
+JAWA BARAT,2025,10,113.98,perikanan_tangkap
+JAWA BARAT,2025,11,114.43,perikanan_tangkap
+JAWA BARAT,2025,12,113.85,perikanan_tangkap
+JAWA BARAT,2026,1,118.14,perikanan_tangkap
+JAWA BARAT,2026,2,119.24,perikanan_tangkap
+JAWA BARAT,2026,3,119.32,perikanan_tangkap
+JAWA BARAT,2026,4,117.89,perikanan_tangkap
+JAWA BARAT,2026,5,116.87,perikanan_tangkap
+JAWA BARAT,2026,6,117.69,perikanan_tangkap
+JAWA BARAT,2026,7,118.65,perikanan_tangkap
+JAWA BARAT,2026,8,118.56,perikanan_tangkap
+JAWA TENGAH,2023,1,106.45,perikanan_tangkap_hitung
+JAWA TENGAH,2023,2,105.89,perikanan_tangkap_hitung
+JAWA TENGAH,2023,3,106.51,perikanan_tangkap_hitung
+JAWA TENGAH,2023,4,106.08,perikanan_tangkap_hitung
+JAWA TENGAH,2023,5,105.84,perikanan_tangkap_hitung
+JAWA TENGAH,2023,6,105.42,perikanan_tangkap_hitung
+JAWA TENGAH,2023,7,104.15,perikanan_tangkap_hitung
+JAWA TENGAH,2023,8,104.35,perikanan_tangkap_hitung
+JAWA TENGAH,2023,9,104.49,perikanan_tangkap_hitung
+JAWA TENGAH,2023,10,104.13,perikanan_tangkap_hitung
+JAWA TENGAH,2023,11,103.55,perikanan_tangkap_hitung
+JAWA TENGAH,2023,12,103.4,perikanan_tangkap_hitung
+JAWA TENGAH,2024,1,100.84,perikanan_tangkap_hitung
+JAWA TENGAH,2024,2,99.88,perikanan_tangkap_hitung
+JAWA TENGAH,2024,3,101.33,perikanan_tangkap_hitung
+JAWA TENGAH,2024,4,101.15,perikanan_tangkap_hitung
+JAWA TENGAH,2024,5,100.52,perikanan_tangkap_hitung
+JAWA TENGAH,2024,6,99.33,perikanan_tangkap_hitung
+JAWA TENGAH,2024,7,99.88,perikanan_tangkap_hitung
+JAWA TENGAH,2024,8,99.06,perikanan_tangkap_hitung
+JAWA TENGAH,2024,9,98.78,perikanan_tangkap_hitung
+JAWA TENGAH,2024,10,98.78,perikanan_tangkap_hitung
+JAWA TENGAH,2024,11,99.45,perikanan_tangkap_hitung
+JAWA TENGAH,2024,12,100.36,perikanan_tangkap_hitung
+JAWA TENGAH,2025,1,100.16,perikanan_tangkap_hitung
+JAWA TENGAH,2025,2,100.19,perikanan_tangkap_hitung
+JAWA TENGAH,2025,3,99.54,perikanan_tangkap_hitung
+JAWA TENGAH,2025,4,98.1,perikanan_tangkap_hitung
+JAWA TENGAH,2025,5,97.76,perikanan_tangkap_hitung
+JAWA TENGAH,2025,6,97.66,perikanan_tangkap_hitung
+JAWA TENGAH,2025,7,97.71,perikanan_tangkap_hitung
+JAWA TENGAH,2025,8,98.62,perikanan_tangkap_hitung
+JAWA TENGAH,2025,9,99.08,perikanan_tangkap_hitung
+JAWA TENGAH,2025,10,98.41,perikanan_tangkap_hitung
+JAWA TENGAH,2025,11,98.14,perikanan_tangkap_hitung
+JAWA TENGAH,2025,12,98.67,perikanan_tangkap_hitung
+JAWA TIMUR,2019,1,98.14,NTN_2018_var523
+JAWA TIMUR,2019,2,98.21,NTN_2018_var523
+JAWA TIMUR,2019,3,97.66,NTN_2018_var523
+JAWA TIMUR,2019,4,97.4,NTN_2018_var523
+JAWA TIMUR,2019,5,98.14,NTN_2018_var523
+JAWA TIMUR,2019,6,97.75,NTN_2018_var523
+JAWA TIMUR,2019,7,98.34,NTN_2018_var523
+JAWA TIMUR,2019,8,99.57,NTN_2018_var523
+JAWA TIMUR,2019,9,100.29,NTN_2018_var523
+JAWA TIMUR,2019,10,99.71,NTN_2018_var523
+JAWA TIMUR,2019,11,98.05,NTN_2018_var523
+JAWA TIMUR,2019,12,98.01,NTN_2018_var523
+JAWA TIMUR,2020,1,98.51,NTN_2018_var523
+JAWA TIMUR,2020,2,97.14,NTN_2018_var523
+JAWA TIMUR,2020,3,96.86,NTN_2018_var523
+JAWA TIMUR,2020,4,94.26,NTN_2018_var523
+JAWA TIMUR,2020,5,93.9,NTN_2018_var523
+JAWA TIMUR,2020,6,95.43,NTN_2018_var523
+JAWA TIMUR,2020,7,95.04,NTN_2018_var523
+JAWA TIMUR,2020,8,95.25,NTN_2018_var523
+JAWA TIMUR,2020,9,95.41,NTN_2018_var523
+JAWA TIMUR,2020,10,95.72,NTN_2018_var523
+JAWA TIMUR,2020,11,95.48,NTN_2018_var523
+JAWA TIMUR,2020,12,96.26,NTN_2018_var523
+JAWA TIMUR,2021,1,96.6,NTN_2018_var523
+JAWA TIMUR,2021,2,98.42,NTN_2018_var523
+JAWA TIMUR,2021,3,96.9,NTN_2018_var523
+JAWA TIMUR,2021,4,98.62,NTN_2018_var523
+JAWA TIMUR,2021,5,101.24,NTN_2018_var523
+JAWA TIMUR,2021,6,101.22,NTN_2018_var523
+JAWA TIMUR,2021,7,101.85,NTN_2018_var523
+JAWA TIMUR,2021,8,103.19,NTN_2018_var523
+JAWA TIMUR,2021,9,104.15,NTN_2018_var523
+JAWA TIMUR,2021,10,104.31,NTN_2018_var523
+JAWA TIMUR,2021,11,104.21,NTN_2018_var523
+JAWA TIMUR,2021,12,102.61,NTN_2018_var523
+JAWA TIMUR,2022,1,103.92,NTN_2018_var523
+JAWA TIMUR,2022,2,104.95,NTN_2018_var523
+JAWA TIMUR,2022,3,103.32,NTN_2018_var523
+JAWA TIMUR,2022,4,104.7,NTN_2018_var523
+JAWA TIMUR,2022,5,104.95,NTN_2018_var523
+JAWA TIMUR,2022,6,103.84,NTN_2018_var523
+JAWA TIMUR,2022,7,105.1,NTN_2018_var523
+JAWA TIMUR,2022,8,104.62,NTN_2018_var523
+JAWA TIMUR,2022,9,102.45,NTN_2018_var523
+JAWA TIMUR,2022,10,102.83,NTN_2018_var523
+JAWA TIMUR,2022,11,101.78,NTN_2018_var523
+JAWA TIMUR,2022,12,102.51,NTN_2018_var523
+JAWA TIMUR,2023,1,100.61,NTN_2018_var523
+JAWA TIMUR,2023,2,101.63,NTN_2018_var523
+JAWA TIMUR,2023,3,101.71,NTN_2018_var523
+JAWA TIMUR,2023,4,102.22,NTN_2018_var523
+JAWA TIMUR,2023,5,101.39,NTN_2018_var523
+JAWA TIMUR,2023,6,100.1,NTN_2018_var523
+JAWA TIMUR,2023,7,101.88,NTN_2018_var523
+JAWA TIMUR,2023,8,101.7,NTN_2018_var523
+JAWA TIMUR,2023,9,100.01,NTN_2018_var523
+JAWA TIMUR,2023,10,99.92,NTN_2018_var523
+JAWA TIMUR,2023,11,98.11,NTP_subsektor_var613
+JAWA TIMUR,2024,1,94.73,NTP_subsektor_var613
+JAWA TIMUR,2024,2,92.92,NTP_subsektor_var613
+JAWA TIMUR,2024,3,95.09,NTP_subsektor_var613
+JAWA TIMUR,2024,4,95.67,NTP_subsektor_var613
+JAWA TIMUR,2024,5,93.72,NTP_subsektor_var613
+JAWA TIMUR,2024,6,93.86,NTP_subsektor_var613
+JAWA TIMUR,2024,7,94.12,NTP_subsektor_var613
+JAWA TIMUR,2024,8,93.81,NTP_subsektor_var613
+JAWA TIMUR,2024,9,94.51,NTP_subsektor_var613
+JAWA TIMUR,2024,10,94.86,NTP_subsektor_var613
+JAWA TIMUR,2024,11,94.78,NTP_subsektor_var613
+JAWA TIMUR,2024,12,96.92,NTP_subsektor_var613
+JAWA TIMUR,2025,1,98.09,NTP_subsektor_var613
+JAWA TIMUR,2025,2,100.85,NTP_subsektor_var613
+JAWA TIMUR,2025,3,100.49,NTP_subsektor_var613
+JAWA TIMUR,2025,4,97.84,NTP_subsektor_var613
+JAWA TIMUR,2025,5,97.65,NTP_subsektor_var613
+JAWA TIMUR,2025,6,96.9,NTP_subsektor_var613
+JAWA TIMUR,2025,7,99.39,NTP_subsektor_var613
+JAWA TIMUR,2025,8,99.34,NTP_subsektor_var613
+JAWA TIMUR,2025,9,97.38,NTP_subsektor_var613
+JAWA TIMUR,2025,10,97.2,NTP_subsektor_var613
+NUSA TENGGARA BARAT,2020,1,100.88,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,2,99.67,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,3,100.08,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,4,100.53,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,5,102.09,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,6,103.6,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,7,105.19,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,8,104.05,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,9,105.25,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,10,106.56,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,11,107.23,perikanan_gabungan
+NUSA TENGGARA BARAT,2020,12,107.61,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,1,107.99,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,2,107.83,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,3,106.33,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,4,107.73,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,5,109.9,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,6,108.96,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,7,108.53,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,8,110.37,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,9,110.65,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,10,111.68,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,11,111.95,perikanan_gabungan
+NUSA TENGGARA BARAT,2021,12,113.56,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,1,113.95,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,2,114.29,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,3,113.72,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,4,112.34,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,5,112.95,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,6,113.97,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,7,114.36,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,8,116.09,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,9,113.8,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,10,112.68,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,11,111.27,perikanan_gabungan
+NUSA TENGGARA BARAT,2022,12,113.57,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,1,114.29,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,2,112.36,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,3,111.94,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,4,113.16,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,5,113.15,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,6,113.12,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,7,113.93,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,8,113.42,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,9,111.31,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,10,109.51,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,11,108.59,perikanan_gabungan
+NUSA TENGGARA BARAT,2023,12,107.08,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,1,104.7,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,2,102.25,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,3,104.08,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,4,103.5,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,5,102.75,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,6,101.13,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,7,101.97,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,8,102.42,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,9,101.99,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,10,103.24,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,11,104.12,perikanan_gabungan
+NUSA TENGGARA BARAT,2024,12,105.59,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,1,106.15,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,2,107.54,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,3,104.96,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,4,105.77,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,5,106.81,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,6,106.33,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,7,107.68,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,8,108.4,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,9,108.78,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,10,107.24,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,11,107.41,perikanan_gabungan
+NUSA TENGGARA BARAT,2025,12,106.82,perikanan_gabungan
+NUSA TENGGARA BARAT,2026,1,109.16,perikanan_gabungan
+NUSA TENGGARA BARAT,2026,2,110.15,perikanan_gabungan
+NUSA TENGGARA BARAT,2026,3,113.14,perikanan_gabungan
+NUSA TENGGARA BARAT,2026,4,110.26,perikanan_gabungan
+NUSA TENGGARA BARAT,2026,5,109.53,perikanan_gabungan
+NUSA TENGGARA BARAT,2026,6,108.85,perikanan_gabungan
+NUSA TENGGARA BARAT,2026,7,111.3,perikanan_gabungan
+NUSA TENGGARA BARAT,2026,8,113.16,perikanan_gabungan
+NUSA TENGGARA TIMUR,2019,1,97.1,NTN_langsung
+NUSA TENGGARA TIMUR,2019,2,95.85,NTN_langsung
+NUSA TENGGARA TIMUR,2019,3,96.28,NTN_langsung
+NUSA TENGGARA TIMUR,2019,4,94.99,NTN_langsung
+NUSA TENGGARA TIMUR,2019,5,94.49,NTN_langsung
+NUSA TENGGARA TIMUR,2019,6,95.87,NTN_langsung
+NUSA TENGGARA TIMUR,2019,7,95.31,NTN_langsung
+NUSA TENGGARA TIMUR,2019,8,96.53,NTN_langsung
+NUSA TENGGARA TIMUR,2019,9,96.59,NTN_langsung
+NUSA TENGGARA TIMUR,2019,10,96.92,NTN_langsung
+NUSA TENGGARA TIMUR,2019,11,96.51,NTN_langsung
+NUSA TENGGARA TIMUR,2019,12,96.39,NTN_langsung
+NUSA TENGGARA TIMUR,2020,1,95.58,NTN_langsung
+NUSA TENGGARA TIMUR,2020,2,95.97,NTN_langsung
+NUSA TENGGARA TIMUR,2020,3,94.8,NTN_langsung
+NUSA TENGGARA TIMUR,2020,4,94.23,NTN_langsung
+NUSA TENGGARA TIMUR,2020,5,93.39,NTN_langsung
+NUSA TENGGARA TIMUR,2020,6,94.9,NTN_langsung
+NUSA TENGGARA TIMUR,2020,7,95.37,NTN_langsung
+NUSA TENGGARA TIMUR,2020,8,94.28,NTN_langsung
+NUSA TENGGARA TIMUR,2020,9,92.86,NTN_langsung
+NUSA TENGGARA TIMUR,2020,10,92.66,NTN_langsung
+NUSA TENGGARA TIMUR,2020,11,92.59,NTN_langsung
+NUSA TENGGARA TIMUR,2020,12,93.82,NTN_langsung
+NUSA TENGGARA TIMUR,2021,1,93.71,NTN_langsung
+NUSA TENGGARA TIMUR,2021,2,93.69,NTN_langsung
+NUSA TENGGARA TIMUR,2021,3,92.38,NTN_langsung
+NUSA TENGGARA TIMUR,2021,4,93.48,NTN_langsung
+NUSA TENGGARA TIMUR,2021,5,93.83,NTN_langsung
+NUSA TENGGARA TIMUR,2021,6,93.14,NTN_langsung
+NUSA TENGGARA TIMUR,2021,7,93.07,NTN_langsung
+NUSA TENGGARA TIMUR,2021,8,92.75,NTN_langsung
+NUSA TENGGARA TIMUR,2021,9,91.26,NTN_langsung
+NUSA TENGGARA TIMUR,2021,10,91.14,NTN_langsung
+NUSA TENGGARA TIMUR,2021,11,90.97,NTN_langsung
+NUSA TENGGARA TIMUR,2021,12,91.17,NTN_langsung
+NUSA TENGGARA TIMUR,2022,1,93.11,NTN_langsung
+NUSA TENGGARA TIMUR,2022,2,91.76,NTN_langsung
+NUSA TENGGARA TIMUR,2022,3,91.6,NTN_langsung
+NUSA TENGGARA TIMUR,2022,4,91.03,NTN_langsung
+NUSA TENGGARA TIMUR,2022,5,90.72,NTN_langsung
+NUSA TENGGARA TIMUR,2022,6,91.18,NTN_langsung
+NUSA TENGGARA TIMUR,2022,7,91.51,NTN_langsung
+NUSA TENGGARA TIMUR,2022,8,91.7,NTN_langsung
+NUSA TENGGARA TIMUR,2022,9,92.01,NTN_langsung
+NUSA TENGGARA TIMUR,2022,10,91.37,NTN_langsung
+NUSA TENGGARA TIMUR,2022,11,91.23,NTN_langsung
+NUSA TENGGARA TIMUR,2022,12,91.36,NTN_langsung
+NUSA TENGGARA TIMUR,2023,1,93.19,NTN_langsung
+NUSA TENGGARA TIMUR,2023,2,92.01,NTN_langsung
+NUSA TENGGARA TIMUR,2023,3,91.24,NTN_langsung
+NUSA TENGGARA TIMUR,2023,4,91.3,NTN_langsung
+NUSA TENGGARA TIMUR,2023,5,91.84,NTN_langsung
+NUSA TENGGARA TIMUR,2023,6,92.04,NTN_langsung
+NUSA TENGGARA TIMUR,2023,7,93.84,NTN_langsung
+NUSA TENGGARA TIMUR,2023,8,94.26,NTN_langsung
+NUSA TENGGARA TIMUR,2023,9,94.22,NTN_langsung
+NUSA TENGGARA TIMUR,2023,10,93.32,NTN_langsung
+NUSA TENGGARA TIMUR,2023,11,91.57,NTN_langsung
+NUSA TENGGARA TIMUR,2023,12,90.27,NTN_langsung
+NUSA TENGGARA TIMUR,2024,1,90.11,NTN_langsung
+NUSA TENGGARA TIMUR,2024,2,89.38,NTN_langsung
+NUSA TENGGARA TIMUR,2024,3,89.32,NTN_langsung
+NUSA TENGGARA TIMUR,2024,4,88.94,NTN_langsung
+NUSA TENGGARA TIMUR,2024,5,88.07,NTN_langsung
+NUSA TENGGARA TIMUR,2024,6,89.59,NTN_langsung
+NUSA TENGGARA TIMUR,2024,7,90.14,NTN_langsung
+NUSA TENGGARA TIMUR,2024,8,89.86,NTN_langsung
+NUSA TENGGARA TIMUR,2024,9,89.79,NTN_langsung
+NUSA TENGGARA TIMUR,2024,10,89.28,NTN_langsung
+NUSA TENGGARA TIMUR,2024,11,89.07,NTN_langsung
+NUSA TENGGARA TIMUR,2024,12,90.34,NTN_langsung
+NUSA TENGGARA TIMUR,2025,1,91.87,NTN_langsung
+NUSA TENGGARA TIMUR,2025,2,92.85,NTN_langsung
+NUSA TENGGARA TIMUR,2025,3,92.89,NTN_langsung
+NUSA TENGGARA TIMUR,2025,4,92.41,NTN_langsung
+NUSA TENGGARA TIMUR,2025,5,91.23,NTN_langsung
+NUSA TENGGARA TIMUR,2025,6,92.97,NTN_langsung
+NUSA TENGGARA TIMUR,2025,7,91.72,NTN_langsung
+NUSA TENGGARA TIMUR,2025,8,92.84,NTN_langsung
+NUSA TENGGARA TIMUR,2025,9,93.35,NTN_langsung
+NUSA TENGGARA TIMUR,2025,10,93.04,NTN_langsung
+NUSA TENGGARA TIMUR,2025,11,92.98,NTN_langsung
+NUSA TENGGARA TIMUR,2025,12,93.17,NTN_langsung
+NUSA TENGGARA TIMUR,2026,1,95.17,NTN_langsung
+NUSA TENGGARA TIMUR,2026,2,95.36,NTN_langsung
+NUSA TENGGARA TIMUR,2026,3,94.42,NTN_langsung
+NUSA TENGGARA TIMUR,2026,4,93.85,NTN_langsung
+NUSA TENGGARA TIMUR,2026,5,94.12,NTN_langsung
+NUSA TENGGARA TIMUR,2026,6,95.86,NTN_langsung

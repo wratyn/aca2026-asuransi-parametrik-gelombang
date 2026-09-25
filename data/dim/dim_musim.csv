@@ -1,0 +1,13 @@
+zona,musim,urutan,hari_musim,indeks_swh_relatif,musim_risiko_tinggi
+573-A,Barat,1,90,0.899,0
+573-A,Peralihan I,2,92,0.9502,0
+573-A,Timur,3,92,1.1526,1
+573-A,Peralihan II,4,91,0.9957,0
+573-D,Barat,1,90,0.9643,0
+573-D,Peralihan I,2,92,0.9196,0
+573-D,Timur,3,92,1.1834,1
+573-D,Peralihan II,4,91,0.9313,0
+573-F,Barat,1,90,0.8873,0
+573-F,Peralihan I,2,92,0.9379,0
+573-F,Timur,3,92,1.3367,1
+573-F,Peralihan II,4,91,0.8351,0
